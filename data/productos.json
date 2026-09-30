@@ -1,0 +1,1461 @@
+{
+ "actualizado": "2026-09-30T18:40:41.265Z",
+ "productos": [
+  {
+   "id": "capry-fitness",
+   "nombre": "Capry Fitness",
+   "cat": "fitness",
+   "act": [
+    "fitness"
+   ],
+   "pub": "unisex",
+   "precio": 29000,
+   "img": "img/productos/capry-fitness.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/capry-fitness",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colores": [
+    "ROJO"
+   ]
+  },
+  {
+   "id": "musculosa-fitness-71203",
+   "nombre": "Musculosa Fitness 71203",
+   "cat": "fitness",
+   "act": [
+    "fitness"
+   ],
+   "pub": "unisex",
+   "precio": 29000,
+   "img": "img/productos/musculosa-fitness-71203.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/musculosa-fitness-71203",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "M",
+    "L"
+   ],
+   "colores": [
+    "AMARILLO"
+   ]
+  },
+  {
+   "id": "musculosa-fitness-a-4221",
+   "nombre": "Musculosa Fitness A/4221",
+   "cat": "fitness",
+   "act": [
+    "fitness"
+   ],
+   "pub": "unisex",
+   "precio": 29000,
+   "img": "img/productos/musculosa-fitness-a-4221.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/musculosa-fitness-a4221",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "L",
+    "M",
+    "S"
+   ],
+   "colores": [
+    "FRANCIA",
+    "NEGRO",
+    "GRIS"
+   ]
+  },
+  {
+   "id": "chaleco-montanez",
+   "nombre": "Chaleco Montañez",
+   "cat": "chalecos",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 119000,
+   "img": "img/productos/chaleco-montanez.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/chalecos/chaleco-montanez",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XS"
+   ],
+   "colores": [
+    "NEGRO"
+   ]
+  },
+  {
+   "id": "chaleco-canelon",
+   "nombre": "Chaleco Canelon",
+   "cat": "chalecos",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 99000,
+   "img": "img/productos/chaleco-canelon.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/chalecos/chaleco-canelon",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S"
+   ],
+   "colores": [
+    "AZUL"
+   ]
+  },
+  {
+   "id": "chaleco-rebstop",
+   "nombre": "Chaleco Rebstop",
+   "cat": "chalecos",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 99000,
+   "img": "img/productos/chaleco-rebstop.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/chalecos/chaleco-rebstop",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "L",
+    "S",
+    "XL"
+   ],
+   "colores": [
+    "AZUL",
+    "NEGRO"
+   ]
+  },
+  {
+   "id": "chaleco-ribstop",
+   "nombre": "Chaleco Ribstop",
+   "cat": "chalecos",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 110000,
+   "img": "img/productos/chaleco-ribstop.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/chalecos/chaleco-ribstop",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "XL",
+    "L"
+   ],
+   "colores": [
+    "VISON",
+    "HIELO"
+   ]
+  },
+  {
+   "id": "chaleco-aluminizado",
+   "nombre": "Chaleco Aluminizado",
+   "cat": "chalecos",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 99000,
+   "img": "img/productos/chaleco-aluminizado.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/chalecos/chaleco-aluminizado",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colores": [
+    "ROJO"
+   ]
+  },
+  {
+   "id": "pluma-reversible",
+   "nombre": "Pluma Reversible",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 299000,
+   "img": "img/productos/pluma-reversible.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/indumentaria/camperas/pluma-reversible",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XL"
+   ],
+   "colores": []
+  },
+  {
+   "id": "buzo-microflez-c-bolsillo-mujer",
+   "nombre": "Buzo Microflez c/ bolsillo Mujer",
+   "cat": "buzos",
+   "act": [
+    "trekking"
+   ],
+   "pub": "mujer",
+   "precio": 119000,
+   "img": "img/productos/buzo-microflez-c-bolsillo-mujer.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/indumentaria/buzos/buzo-microflez-cbolsillo-mujer",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "M",
+    "L",
+    "S",
+    "XS"
+   ],
+   "colores": [
+    "CEREZA",
+    "VIOLETA",
+    "ESMERALDA",
+    "TURQUESA",
+    "FREZA"
+   ]
+  },
+  {
+   "id": "campera-termofleece-c-capucha",
+   "nombre": "Campera Termofleece c/ capucha",
+   "cat": "camperas",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 139000,
+   "img": "img/productos/campera-termofleece-c-capucha.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/indumentaria/buzos/campera-termofleece-ccapucha",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S"
+   ],
+   "colores": [
+    "VERDE"
+   ]
+  },
+  {
+   "id": "calzado-arezzo-mr",
+   "nombre": "Calzado Arezzo MR",
+   "cat": "calzado",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 389000,
+   "img": "img/productos/calzado-arezzo-mr.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/calzado-trekking/calzado-arezzo-mr",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "41"
+   ],
+   "colores": [
+    "BROWN"
+   ]
+  },
+  {
+   "id": "calzado-ansio-mr",
+   "nombre": "Calzado Ansio MR",
+   "cat": "calzado",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 329000,
+   "img": "img/productos/calzado-ansio-mr.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/calzado-trekking/calzado-ansio-mr",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "41"
+   ],
+   "colores": [
+    "BROWN"
+   ]
+  },
+  {
+   "id": "calzado-alei",
+   "nombre": "Calzado Alei",
+   "cat": "calzado",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 389000,
+   "img": "img/productos/calzado-alei.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/calzado-trekking/calzado-alei",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "38"
+   ],
+   "colores": [
+    "Camel"
+   ]
+  },
+  {
+   "id": "calzado-ansio",
+   "nombre": "Calzado Ansio",
+   "cat": "calzado",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 329000,
+   "img": "img/productos/calzado-ansio.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/calzado-trekking/calzado-ansio",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "36",
+    "37",
+    "40",
+    "38"
+   ],
+   "colores": [
+    "bordo"
+   ]
+  },
+  {
+   "id": "calzado-trekking-cue",
+   "nombre": "Calzado Trekking Cue",
+   "cat": "calzado",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 329000,
+   "img": "img/productos/calzado-trekking-cue.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/calzado-trekking/calzado-trekking-cue",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "45"
+   ],
+   "colores": [
+    "Negro"
+   ]
+  },
+  {
+   "id": "calzado-trekking-cuero",
+   "nombre": "Calzado Trekking Cuero",
+   "cat": "calzado",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 329000,
+   "img": "img/productos/calzado-trekking-cuero.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/calzado-trekking/calzado-trekking-cuero",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "colores": [
+    "avano"
+   ]
+  },
+  {
+   "id": "calzado-trekking",
+   "nombre": "Calzado Trekking",
+   "cat": "calzado",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 349000,
+   "img": "img/productos/calzado-trekking.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/calzado-trekking/calzado-trekking",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "Talle 43"
+   ]
+  },
+  {
+   "id": "buzo-microflez-grid-hombre",
+   "nombre": "Buzo Microflez Grid Hombre",
+   "cat": "buzos",
+   "act": [
+    "trekking"
+   ],
+   "pub": "hombre",
+   "precio": 119000,
+   "img": "img/productos/buzo-microflez-grid-hombre.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/montanismo/buzo-microflez-grid-hombre",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XL",
+    "M",
+    "XXL",
+    "S",
+    "L"
+   ],
+   "colores": [
+    "HOLLIWOOD",
+    "ROJO",
+    "CYAN",
+    "PETROLEO",
+    "BORDO"
+   ]
+  },
+  {
+   "id": "gift-card",
+   "nombre": "Gift Card",
+   "cat": "giftcard",
+   "act": [],
+   "pub": "unisex",
+   "precio": 25000,
+   "img": "img/productos/gift-card.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/gift-card/gift-card",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": []
+  },
+  {
+   "id": "pantalon-desmontable-hydryd-dry",
+   "nombre": "Pantalon Desmontable Hydryd Dry",
+   "cat": "pantalones",
+   "act": [
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 169000,
+   "img": "img/productos/pantalon-desmontable-hydryd-dry.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/montanismo/pantalon-desmontable-hydryd-dry",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XL",
+    "M"
+   ],
+   "colores": [
+    "CEMENTO"
+   ]
+  },
+  {
+   "id": "pantalon-hybrid-dry-mujer-8067",
+   "nombre": "Pantalon Hybrid Dry Mujer - 8067",
+   "cat": "pantalones",
+   "act": [
+    "trekking"
+   ],
+   "pub": "mujer",
+   "precio": 169000,
+   "img": "img/productos/pantalon-hybrid-dry-mujer-8067.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/montanismo/pantalon-hybrid-dry-mujer-8067",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "L"
+   ],
+   "colores": [
+    "GRIS MEDIO"
+   ]
+  },
+  {
+   "id": "mochila-extreme",
+   "nombre": "Mochila Extreme",
+   "cat": "accesorios",
+   "act": [
+    "camping",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 32000,
+   "img": "img/productos/mochila-extreme.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/mochila-extreme",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "LILA",
+    "VERDE"
+   ]
+  },
+  {
+   "id": "pantalon-termico-dry-max-mujer",
+   "nombre": "Pantalon Termico Dry Max Mujer",
+   "cat": "termicas",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "mujer",
+   "precio": 59000,
+   "img": "img/productos/pantalon-termico-dry-max-mujer.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/camping/pantalon-termico-dry-max-mujer",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "XXL",
+    "XS",
+    "XL",
+    "XXS"
+   ],
+   "colores": [
+    "BLANCO",
+    "NEGRO"
+   ]
+  },
+  {
+   "id": "pantalon-termico-dry-max-hombre",
+   "nombre": "Pantalon Termico Dry Max Hombre",
+   "cat": "termicas",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "hombre",
+   "precio": 59000,
+   "img": "img/productos/pantalon-termico-dry-max-hombre.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/camping/pantalon-termico-dry-max-hombre",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "M",
+    "XXL",
+    "S"
+   ],
+   "colores": [
+    "BLANCO",
+    "NEGRO"
+   ]
+  },
+  {
+   "id": "remera-termica-dry-max-nino",
+   "nombre": "Remera Termica Dry Max Niño",
+   "cat": "termicas",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "ninos",
+   "precio": 59000,
+   "img": "img/productos/remera-termica-dry-max-nino.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/camping/remera-termica-dry-max-nino",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "6",
+    "8",
+    "4",
+    "10"
+   ],
+   "colores": [
+    "BLANCO",
+    "NEGRO"
+   ]
+  },
+  {
+   "id": "remera-dry-termica-hombre",
+   "nombre": "Remera Dry Termica Hombre",
+   "cat": "termicas",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "hombre",
+   "precio": 59000,
+   "img": "img/productos/remera-dry-termica-hombre.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/camping/remera-dry-termica-hombre",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colores": [
+    "BLANCO"
+   ]
+  },
+  {
+   "id": "remera-termica-dry-max-mujer",
+   "nombre": "Remera Termica Dry Max Mujer",
+   "cat": "termicas",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "mujer",
+   "precio": 59000,
+   "img": "img/productos/remera-termica-dry-max-mujer.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/camping/remera-termica-dry-max-mujer",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "L",
+    "XXL",
+    "XS",
+    "XL"
+   ],
+   "colores": [
+    "NEGRO",
+    "BLANCO"
+   ]
+  },
+  {
+   "id": "buzo-microflez-150-gr-6103",
+   "nombre": "Buzo Microflez 150 Gr - 6103",
+   "cat": "buzos",
+   "act": [
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 95000,
+   "img": "img/productos/buzo-microflez-150-gr-6103.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/buzo-microflez-150-gr-6103",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "XL",
+    "L",
+    "XS"
+   ],
+   "colores": [
+    "MORA",
+    "TURQUESA",
+    "ROJO",
+    "FREZA",
+    "CEREZA",
+    "ORQUIDEA",
+    "VIOLETA",
+    "UVA",
+    "AGUA"
+   ]
+  },
+  {
+   "id": "gorro-termovelour",
+   "nombre": "Gorro Termovelour",
+   "cat": "accesorios",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 12000,
+   "img": "img/productos/gorro-termovelour.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/gorro-termovelour",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "NEGRO",
+    "VISON",
+    "GRIS"
+   ]
+  },
+  {
+   "id": "pantalon-uv-syplex-8040-1",
+   "nombre": "Pantalon UV Syplex 8040-1",
+   "cat": "pantalones",
+   "act": [
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 169000,
+   "img": "img/productos/pantalon-uv-syplex-8040-1.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/pantalon-uv-syplex-8040-1",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "XL"
+   ],
+   "colores": [
+    "COCOA"
+   ]
+  },
+  {
+   "id": "pantalon-maipo-gabardina-con-elastano-8077",
+   "nombre": "Pantalon Maipo Gabardina con Elastano 8077",
+   "cat": "pantalones",
+   "act": [
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 169000,
+   "img": "img/productos/pantalon-maipo-gabardina-con-elastano-8077.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/trekking/pantalon-maipo-gabardina-con-elastano-8077",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "M",
+    "XL"
+   ],
+   "colores": [
+    "NEGRO"
+   ]
+  },
+  {
+   "id": "pantalon-hybrid-gry-mujer-8066",
+   "nombre": "Pantalon Hybrid Gry Mujer 8066",
+   "cat": "pantalones",
+   "act": [
+    "trekking"
+   ],
+   "pub": "mujer",
+   "precio": 169000,
+   "img": "img/productos/pantalon-hybrid-gry-mujer-8066.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/pantalon-hybrid-gry-mujer-8066",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "XXL",
+    "L"
+   ],
+   "colores": [
+    "CEMENTO",
+    "GRIS MEDIO"
+   ]
+  },
+  {
+   "id": "campera-estampada-sin-capucha",
+   "nombre": "Campera Estampada sin Capucha",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 129000,
+   "img": "img/productos/campera-estampada-sin-capucha.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/campera-estampada-sin-capucha",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "XS"
+   ],
+   "colores": [
+    "VIOLETA",
+    "NEGRO"
+   ]
+  },
+  {
+   "id": "pantalon-de-gabardina-con-elastano-8075",
+   "nombre": "Pantalón de Gabardina con Elastano 8075",
+   "cat": "pantalones",
+   "act": [
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 169000,
+   "img": "img/productos/pantalon-de-gabardina-con-elastano-8075.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/indumentaria/pantalon-de-gabardina-con-elastano-8075",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XS",
+    "XL"
+   ],
+   "colores": [
+    "NEGRO",
+    "TOSTADO",
+    "VERDE"
+   ]
+  },
+  {
+   "id": "campera-termoflex-con-capucha-4126",
+   "nombre": "Campera Termoflex con Capucha 4126",
+   "cat": "camperas",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 149000,
+   "img": "img/productos/campera-termoflex-con-capucha-4126.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/campera-termoflex-con-capucha-4126",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "colores": [
+    "NEGRO",
+    "AZUL",
+    "BORDO",
+    "FRANCIA"
+   ]
+  },
+  {
+   "id": "campera-canelon-con-capucha-21117704",
+   "nombre": "Campera Canelon con Capucha 21117704",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 109000,
+   "img": "img/productos/campera-canelon-con-capucha-21117704.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/ofertas/campera-canelon-con-capucha-21117704",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "L",
+    "M",
+    "XL"
+   ],
+   "colores": [
+    "OLIVA",
+    "NEGRO",
+    "VISON",
+    "AZUL"
+   ]
+  },
+  {
+   "id": "campera-polar-flex-grid-4115",
+   "nombre": "Campera Polar Flex Grid 4115",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 149000,
+   "img": "img/productos/campera-polar-flex-grid-4115.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/campera-polar-flex-grid-4115",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "L",
+    "XXL",
+    "XL",
+    "M"
+   ],
+   "colores": [
+    "BORDO",
+    "AZUL",
+    "ROJO"
+   ]
+  },
+  {
+   "id": "jacket-garabard-con-piel-yh",
+   "nombre": "Jacket Garabard con Piel YH",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 129000,
+   "img": "img/productos/jacket-garabard-con-piel-yh.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/ofertas/jacket-garabard-con-piel-yh",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "M",
+    "L"
+   ],
+   "colores": [
+    "NEGRO",
+    "VERDE"
+   ]
+  },
+  {
+   "id": "campera-pluma-yh146",
+   "nombre": "Campera Pluma YH146",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 239000,
+   "img": "img/productos/campera-pluma-yh146.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/camperas/campera-pluma-yh146",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "colores": [
+    "CARAMEL",
+    "ROJO",
+    "AZUL"
+   ]
+  },
+  {
+   "id": "parka-yh",
+   "nombre": "Parka YH",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 289000,
+   "img": "img/productos/parka-yh.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/camperas/parka-yh",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "M",
+    "L",
+    "XXL"
+   ],
+   "colores": [
+    "NEGRO",
+    "AZUL"
+   ]
+  },
+  {
+   "id": "campera-de-pluma-k5001",
+   "nombre": "Campera de Pluma K5001",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 199000,
+   "img": "img/productos/campera-de-pluma-k5001.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/camperas/campera-de-pluma-k5001",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XS",
+    "S"
+   ],
+   "colores": [
+    "TOMATE"
+   ]
+  },
+  {
+   "id": "campera-canelon-hd800",
+   "nombre": "Campera Canelon HD800",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 139000,
+   "img": "img/productos/campera-canelon-hd800.webp",
+   "foto": "cover",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/campera-canelon-hd800",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "L",
+    "M"
+   ],
+   "colores": [
+    "ROJO"
+   ]
+  },
+  {
+   "id": "pantalon-desmontable-8065-1",
+   "nombre": "Pantalon Desmontable 8065-1",
+   "cat": "pantalones",
+   "act": [
+    "camping",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 179000,
+   "img": "img/productos/pantalon-desmontable-8065-1.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/camping/pantalon-desmontable-8065-1",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "L"
+   ],
+   "colores": []
+  },
+  {
+   "id": "calza-alta-dencidad-k-100",
+   "nombre": "Calza Alta Densidad K-100",
+   "cat": "pantalones",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 189000,
+   "img": "img/productos/calza-alta-dencidad-k-100.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/calza-alta-dencidad-k-100",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XS",
+    "S",
+    "L",
+    "M",
+    "XL",
+    "XXL"
+   ],
+   "colores": [
+    "CAMUFLADO",
+    "AZUL",
+    "NEGRO",
+    "VIOLETA",
+    "FUCSIA"
+   ]
+  },
+  {
+   "id": "calza-alta-dencidad",
+   "nombre": "Calza Alta Densidad",
+   "cat": "pantalones",
+   "act": [
+    "nieve",
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 189000,
+   "img": "img/productos/calza-alta-dencidad.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/actividades/esqui/calza-alta-dencidad",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "XS",
+    "L"
+   ],
+   "colores": [
+    "AZUL",
+    "VIOLETA"
+   ]
+  },
+  {
+   "id": "buzo-garmont-sr6103",
+   "nombre": "Buzo Garmont SR6103",
+   "cat": "buzos",
+   "act": [
+    "trekking"
+   ],
+   "pub": "unisex",
+   "precio": 95000,
+   "img": "img/productos/buzo-garmont-sr6103.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/indumentaria/buzo-garmont-sr6103",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "M",
+    "XL",
+    "L",
+    "XS"
+   ],
+   "colores": [
+    "TURQUESA",
+    "ROJO",
+    "FRESA",
+    "AGUA",
+    "CEREZA",
+    "VIOLETA",
+    "ORQUIDEA",
+    "UVA",
+    "MORA"
+   ]
+  },
+  {
+   "id": "buzo-mujer-garmont-6109",
+   "nombre": "Buzo Mujer Garmont 6109",
+   "cat": "buzos",
+   "act": [
+    "trekking"
+   ],
+   "pub": "mujer",
+   "precio": 110000,
+   "img": "img/productos/buzo-mujer-garmont-6109.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/indumentaria/buzo-mujer-garmont-6109",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "CEREZA TALLE M",
+    "CEREZA TALLE L",
+    "ESMERALDA TALLE XS",
+    "ESMERALDA TALLE S",
+    "TURQUESA TALLE M",
+    "TURQUESA TALLE L",
+    "ROSA VIEJO TALLE L",
+    "FRESA TALLE S",
+    "FRESA TALLE XS",
+    "VIOLETA TALLE S",
+    "VIOLETA TALLE XS"
+   ]
+  },
+  {
+   "id": "guantes-de-micropolar-northland",
+   "nombre": "Guantes de Micropolar Northland",
+   "cat": "accesorios",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 69000,
+   "img": "img/productos/guantes-de-micropolar-northland.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/guantes-de-micropolar-northland",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "XL/XXL",
+    "M/L",
+    "S",
+    "M",
+    "L"
+   ],
+   "colores": []
+  },
+  {
+   "id": "cortapluma-llavero-simonnorthland",
+   "nombre": "Cortapluma Llavero Simon Northland",
+   "cat": "accesorios",
+   "act": [
+    "camping",
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 20000,
+   "img": "img/productos/cortapluma-llavero-simonnorthland.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/cortapluma-llavero-simonnorthland",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": []
+  },
+  {
+   "id": "set-de-cubiertos-northland",
+   "nombre": "Set de Cubiertos Northland",
+   "cat": "accesorios",
+   "act": [
+    "camping"
+   ],
+   "pub": "unisex",
+   "precio": 35000,
+   "img": "img/productos/set-de-cubiertos-northland.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/set-de-cubiertos-northland",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": []
+  },
+  {
+   "id": "bolso-matero-termico-northland-tea-bag",
+   "nombre": "Bolso Matero Térmico Northland Tea Bag",
+   "cat": "accesorios",
+   "act": [
+    "camping"
+   ],
+   "pub": "unisex",
+   "precio": 79000,
+   "img": "img/productos/bolso-matero-termico-northland-tea-bag.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/bolso-matero-termico-northland-tea-bag",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": []
+  },
+  {
+   "id": "termo-riseone-northland",
+   "nombre": "Termo Riseone Northland",
+   "cat": "accesorios",
+   "act": [
+    "camping"
+   ],
+   "pub": "unisex",
+   "precio": 79000,
+   "img": "img/productos/termo-riseone-northland.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/termo-riseone-northland",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "ROJO",
+    "AZUL"
+   ]
+  },
+  {
+   "id": "gorro-cola-de-ballena-nino",
+   "nombre": "Gorro Cola de Ballena Niño",
+   "cat": "accesorios",
+   "act": [
+    "nieve"
+   ],
+   "pub": "ninos",
+   "precio": 12000,
+   "img": "img/productos/gorro-cola-de-ballena-nino.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/gorro-cola-de-ballena-nino",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "VERDE",
+    "BORDÓ",
+    "BEIGE"
+   ]
+  },
+  {
+   "id": "botiquin-garmont-grande",
+   "nombre": "Botiquin Garmont Grande",
+   "cat": "accesorios",
+   "act": [
+    "camping"
+   ],
+   "pub": "unisex",
+   "precio": 39000,
+   "img": "img/productos/botiquin-garmont-grande.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/botiquin-garmont-grande",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "AZUL"
+   ]
+  },
+  {
+   "id": "botiquin-garmont-chico",
+   "nombre": "Botiquin Garmont Chico",
+   "cat": "accesorios",
+   "act": [
+    "camping"
+   ],
+   "pub": "unisex",
+   "precio": 32000,
+   "img": "img/productos/botiquin-garmont-chico.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/botiquin-garmont-chico",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "ROJO"
+   ]
+  },
+  {
+   "id": "antiparra-northland",
+   "nombre": "Antiparra Northland",
+   "cat": "accesorios",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 85000,
+   "img": "img/productos/antiparra-northland.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/antiparra-northland",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": []
+  },
+  {
+   "id": "pinza-multifuncion-tipo-llavero",
+   "nombre": "Pinza Multifunción Tipo Llavero",
+   "cat": "accesorios",
+   "act": [
+    "camping"
+   ],
+   "pub": "unisex",
+   "precio": 35000,
+   "img": "img/productos/pinza-multifuncion-tipo-llavero.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/pinza-multifuncion-tipo-llavero",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": []
+  },
+  {
+   "id": "luz-quimica-northland",
+   "nombre": "Luz Química Northland",
+   "cat": "accesorios",
+   "act": [
+    "camping"
+   ],
+   "pub": "unisex",
+   "precio": 8400,
+   "img": "img/productos/luz-quimica-northland.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/accesorios/luz-quimica-northland",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [],
+   "colores": [
+    "ROJO",
+    "AMARILLO",
+    "BLANCO",
+    "VERDE",
+    "NARANJA"
+   ]
+  },
+  {
+   "id": "campera-garmont-sr4113",
+   "nombre": "Campera Garmont SR4113",
+   "cat": "camperas",
+   "act": [
+    "nieve"
+   ],
+   "pub": "unisex",
+   "precio": 169000,
+   "img": "img/productos/campera-garmont-sr4113.webp",
+   "foto": "contain",
+   "url": "https://nanukoutdoor.empretienda.com.ar/camperas/campera-garmont-sr4113",
+   "precioAnterior": 0,
+   "transfer": 21,
+   "stock": true,
+   "talles": [
+    "S",
+    "XL"
+   ],
+   "colores": [
+    "VIOLETA",
+    "VERDE"
+   ]
+  }
+ ]
+}

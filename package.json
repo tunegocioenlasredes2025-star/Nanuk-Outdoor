@@ -1,0 +1,6 @@
+{
+  "name": "nanuk-outdoor",
+  "private": true,
+  "scripts": { "sincronizar": "node scripts/sincronizar.js" },
+  "engines": { "node": ">=20" }
+}

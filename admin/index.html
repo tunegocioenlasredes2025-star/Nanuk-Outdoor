@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Panel · Nanuk Outdoor</title>
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#163b43">
+<link rel="icon" href="/img/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/admin/admin.css">
+</head>
+<body>
+
+<!-- INGRESO -->
+<section class="login" id="login">
+  <form class="login__card" id="loginForm">
+    <img src="/img/logo-nanuk.png" alt="Nanuk" width="484" height="322">
+    <h1>Panel de la web</h1>
+    <label for="pin">Clave</label>
+    <input id="pin" type="password" inputmode="numeric" autocomplete="current-password" placeholder="••••" required>
+    <button class="b b--pri" type="submit">Entrar</button>
+    <p class="login__err" id="loginErr" hidden>Clave incorrecta.</p>
+    <p class="login__demo">Demo: la clave es <strong>1234</strong></p>
+  </form>
+</section>
+
+<!-- PANEL -->
+<div class="app" id="app" hidden>
+  <header class="top">
+    <img src="/img/logo-nanuk-blanco.png" alt="Nanuk" width="484" height="322">
+    <div class="top__txt"><strong>Panel de la web</strong><span id="resumen">…</span></div>
+    <a class="b b--ghost-l" href="/" target="_blank" rel="noopener">Ver la web</a>
+  </header>
+
+  <p class="aviso"><strong>Modo demo.</strong> Lo que publiques se ve sólo en este navegador. En la versión final, “Publicar” actualiza la web para todos en un minuto.</p>
+
+  <main class="wrap">
+
+    <!-- AGREGAR -->
+    <section class="card" id="agregar">
+      <h2>Agregar un producto</h2>
+      <p class="ayuda">1. Subilo a Empretienda como siempre. 2. Abrí el producto en tu tienda y copiá el link. 3. Pegalo acá.</p>
+      <form class="pegar" id="pegarForm">
+        <input id="link" type="url" placeholder="https://nanukoutdoor.empretienda.com.ar/…" required>
+        <button class="b b--pri" id="traer" type="submit">Traer datos</button>
+      </form>
+      <p class="msg" id="pegarMsg" hidden></p>
+
+      <div class="nuevo" id="nuevo" hidden>
+        <div class="nuevo__foto"><img id="nFoto" alt=""></div>
+        <div class="nuevo__datos">
+          <label>Nombre en la web<input id="nNombre" type="text"></label>
+          <div class="precios" id="nPrecios"></div>
+          <p class="talles" id="nTalles"></p>
+          <div class="fila">
+            <label>Categoría<select id="nCat"></select></label>
+            <label>Para quién<select id="nPub"></select></label>
+          </div>
+          <fieldset class="acts" id="nActs"><legend>Actividades</legend></fieldset>
+          <label class="check"><input type="checkbox" id="nDest"> Destacarlo (aparece primero)</label>
+          <div class="fila fila--btns">
+            <button class="b b--pri" id="nAgregar" type="button">Agregar a la web</button>
+            <button class="b b--ghost" id="nCancelar" type="button">Cancelar</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- LISTA -->
+    <section class="card">
+      <div class="lista__head">
+        <h2>Productos en la web</h2>
+        <button class="b b--ghost" id="sync" type="button">Revisar precios y stock ahora</button>
+      </div>
+      <p class="ayuda">Los precios, el stock y los talles se copian solos de Empretienda todos los días a las 6 de la mañana. Este botón lo hace en el momento.</p>
+      <div class="sync" id="syncBox" hidden>
+        <div class="sync__bar"><span id="syncBar"></span></div>
+        <p id="syncTxt"></p>
+        <ul id="syncCambios"></ul>
+      </div>
+      <div class="filtros">
+        <input id="buscar" type="search" placeholder="Buscar producto…">
+        <select id="fCat"><option value="">Todas las categorías</option></select>
+        <select id="fEstado">
+          <option value="">Todos</option>
+          <option value="visibles">Visibles</option>
+          <option value="ocultos">Ocultos</option>
+          <option value="sinstock">Sin stock</option>
+          <option value="destacados">Destacados</option>
+        </select>
+      </div>
+      <ul class="lista" id="lista"></ul>
+    </section>
+
+    <p class="reset"><button class="linkb" id="restaurar" type="button">Volver al catálogo original de la demo</button></p>
+  </main>
+
+  <!-- barra de publicar -->
+  <div class="pub" id="pubBar" hidden>
+    <span id="pubTxt">Cambios sin publicar</span>
+    <button class="b b--ghost-l" id="descartar" type="button">Descartar</button>
+    <button class="b b--sol" id="publicar" type="button">Publicar</button>
+  </div>
+  <div class="toast" id="toast" role="status" hidden></div>
+</div>
+
+<!-- editor -->
+<dialog class="edit" id="edit">
+  <form method="dialog" id="editForm">
+    <h3>Editar producto</h3>
+    <label>Nombre en la web<input id="eNombre" type="text" required></label>
+    <div class="fila">
+      <label>Categoría<select id="eCat"></select></label>
+      <label>Para quién<select id="ePub"></select></label>
+    </div>
+    <fieldset class="acts" id="eActs"><legend>Actividades</legend></fieldset>
+    <label>Cómo se ve la foto
+      <select id="eFoto"><option value="contain">Entera, sobre blanco (producto)</option><option value="cover">Llena el cuadro (foto ambientada)</option></select></label>
+    <p class="ayuda">El precio, el stock y los talles no se editan acá: se toman de Empretienda.</p>
+    <div class="fila fila--btns">
+      <button class="b b--pri" value="ok">Guardar</button>
+      <button class="b b--ghost" value="cancel" formnovalidate>Cancelar</button>
+    </div>
+  </form>
+</dialog>
+
+<script src="/js/comun.js"></script>
+<script src="/admin/admin.js"></script>
+</body>
+</html>
