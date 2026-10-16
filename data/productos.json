@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-08T16:06:54.503Z",
+ "actualizado": "2026-10-16T13:44:16.058Z",
  "productos": [
   {
    "id": "capry-fitness",
@@ -1013,8 +1013,7 @@
    "stock": true,
    "talles": [
     "M",
-    "L",
-    "XXL"
+    "L"
    ],
    "colores": [
     "NEGRO",
